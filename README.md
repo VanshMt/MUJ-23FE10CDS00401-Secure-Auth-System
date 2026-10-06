@@ -645,6 +645,19 @@ A full-stack authentication and account security platform built with **React, No
 This project goes beyond basic authentication by implementing **multi-device session management, brute-force protection, risk-based login detection, geo-location monitoring, suspicious login alerts, and advanced account security controls** commonly found in production-grade applications.
 
 ---
+---
+## Student Details
+
+- **Name:** Vansh Vivek Mathur
+- **Registration Number:** 23FE10CDS00401
+- **Branch:** B.Tech Data Science
+- **Batch:** F
+- **Project Title:** Secure Auth System
+- **GitHub Username:** VanshMt
+- **GitHub Repository:** MUJ-23FE10CDS00401-Secure-auth-system
+
+
+---
 
 # 🚀 Highlights
 
@@ -978,7 +991,7 @@ secure-auth-system/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/VanshMt/Secure-Authentication-System-with-Brute-Force-Protection.git
+git clone https://github.com/VanshMt/MUJ-23FE10CDS00401-Secure-auth-system.git
 ```
 
 ## Backend Setup
@@ -995,7 +1008,12 @@ cd secure-auth-frontend
 npm install
 npm start
 ```
+## Clone Repo
 
+```bash
+git clone https://github.com/VanshMt/MUJ-23FE10CDS00401-Secure-auth-system.git
+cd MUJ-23FE10CDS00401-Secure-auth-system
+```
 ---
 
 # 🔑 Environment Variables
@@ -1069,7 +1087,12 @@ Built a production-grade authentication and session management platform using Re
 
 # 👨‍💻 Author
 
-**Vansh Mathur**
+**Vansh Vivek Mathur**
+
+B.Tech Data Science
+Manipal University Jaipur
+Batch F
+GitHub: VanshMt
 
 Cybersecurity-focused authentication project demonstrating secure authentication workflows, device-aware session management, risk-based login monitoring, and modern account protection mechanisms.
 
